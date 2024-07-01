@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "firstName": "Ana",
+        "lastName": "Maria"
+    },
+    {
+        "id": 2,
+        "firstName": "Abel",
+        "lastName": "Gon\u00e7alves"
+    },
+    {
+        "id": 3,
+        "firstName": "Sofia",
+        "lastName": "Pereira"
+    },
+    {
+        "id": 4,
+        "firstName": "Rui",
+        "lastName": "Rio"
+    },
+    {
+        "id": 5,
+        "firstName": "Cavaco",
+        "lastName": "Lu\u00eds"
+    }
+]

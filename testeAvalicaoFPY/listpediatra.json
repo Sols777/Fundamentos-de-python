@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "primeiroNome": "Artur",
+        "ultimoNome": "Manuel",
+        "salario": "4110"
+    },
+    {
+        "id": 2,
+        "primeiroNome": "Maria",
+        "ultimoNome": "Martins",
+        "salario": "4015"
+    },
+    {
+        "id": 3,
+        "primeiroNome": "Carlos",
+        "ultimoNome": "Oliveira",
+        "salario": "4550"
+    },
+    {
+        "id": 4,
+        "primeiroNome": "Joao",
+        "ultimoNome": "Monteiro",
+        "salario": "3640"
+    },
+    {
+        "id": 5,
+        "primeiroNome": "Pedro",
+        "ultimoNome": "Pinto",
+        "salario": "3990"
+    },
+    {
+        "id": 6,
+        "primeiroNome": "Cristina",
+        "ultimoNome": "Santos",
+        "salario": "10300"
+    }
+]
